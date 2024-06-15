@@ -51,7 +51,7 @@ int main() {
         }
     }
 
-    /*use os preços gerados aleatoriamente ou se divirta digita o preço de cada um dos 11250 carro maunalmente
+    /*use os preços gerados aleatoriamente ou se divirta digitando o preço de cada um dos 11250 carros maunalmente
     for(i = 0; i < IDE; i++){
         for(m = modA; m <= modE; m++){
             for(c = branco; c <= preto; c++){

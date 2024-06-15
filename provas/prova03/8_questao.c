@@ -3,7 +3,7 @@ menor elemento da linha em que se encontra o maior elemento da matriz.
 Escrevaum programa que preencha uma matriz M(5x5) por leitura e determine o seu
 elemento minimax*/
 #include <stdio.h> 
-#define MAX 2
+#define MAX 5
 
 void prearr(int f[MAX][MAX]) {
     int i, j;
